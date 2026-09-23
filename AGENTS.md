@@ -4,14 +4,10 @@
 - Vite
 - TypeScript
 - React
-- Oxlint
+-  eslint
 
-[//]: # (## Project structure)
-[//]: # (/src/api                  HTTP endpoints)
-[//]: # (/src/services             Business logic)
-[//]: # (/src/db                   Database layer)
-[//]: # (/tests                    Tests)
-[//]: # (/scripts                  Maintenance scripts)
+## Project structure
+- Use Feature Feature-Sliced Design (FSD) folder structure
 
 ## Setup Install dependencies:
 npm install
