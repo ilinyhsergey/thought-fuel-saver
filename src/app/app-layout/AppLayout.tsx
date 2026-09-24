@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useDisclosure } from '@mantine/hooks';
 import { AppShell, Burger, Button, Group, UnstyledButton } from '@mantine/core';
-import classes from './AppLayout.module.css';
+import classes from './AppLayout.module.scss';
 import { useState } from 'react';
 
 export const AppLayout: React.FC = () => {
